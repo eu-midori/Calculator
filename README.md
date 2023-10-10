@@ -1,1 +1,1 @@
-Very simple design of a calculator.
+Mini project of a calculator.
